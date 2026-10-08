@@ -71,12 +71,6 @@ build.cmd
 
 The output is a single self-contained executable at `publish\QRGen.exe`.
 
-To run it from source for development:
-
-```bash
-dotnet run -c Release
-```
-
 ## Keyboard shortcuts
 
 | Shortcut | Action |
