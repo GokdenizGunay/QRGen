@@ -1,5 +1,7 @@
 # QRGen - Easiest way to make 2D codes
 
+![Screenshot](images/mainmenu.png)
+
 A modern, portable QR code and barcode generator for Windows, built with C# and WPF (.NET 10).
 
 QRGen runs as a single `.exe` with no installer and no .NET runtime required. You can style your codes, add a logo in the middle, and export them to raster or vector formats. Every code is checked by reading it back, so you know it scans before you save it.
@@ -22,6 +24,7 @@ Plain text, URL, Wi-Fi network, vCard contact, email, SMS, phone, WhatsApp, geo 
 - Adjustable quiet zone (margin) for every code type
 
 ### Styling
+![Screenshot](images/styling.png)
 - 9 module styles: square, rounded, dots, diamond, smooth (connected), small squares, vertical bars, horizontal bars, star
 - 5 finder pattern (eye) frame styles and 5 eye center styles
 - Solid colors or gradients (horizontal, vertical, two diagonal directions, radial)
@@ -31,6 +34,7 @@ Plain text, URL, Wi-Fi network, vCard contact, email, SMS, phone, WhatsApp, geo 
 - Save and load styles as JSON
 
 ### Logo
+![Screenshot](images/logo.png)
 - Place any image (PNG, JPG, BMP, GIF, TIFF, ICO) in the center of the code. You can also drag and drop it onto the window.
 - Set the logo size and padding
 - Choose a background shape: none, square, rounded, or circle
