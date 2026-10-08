@@ -113,3 +113,4 @@ All output formats are drawn from one shared vector model. That is why raster an
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+This project is made with Claude.
