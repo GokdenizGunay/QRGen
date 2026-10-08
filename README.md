@@ -1,4 +1,4 @@
-# QRGen
+# QRGen - Easiest way to make 2D codes
 
 A modern, portable QR code and barcode generator for Windows, built with C# and WPF (.NET 10).
 
@@ -64,7 +64,7 @@ Requirements: Windows 10 or 11 (x64).
 Requirements: [.NET 10 SDK](https://dotnet.microsoft.com/download)
 
 ```bash
-git clone https://github.com/<your-username>/QRGen.git
+git clone https://github.com/GokdenizGunay/QRGen.git
 cd QRGen
 build.cmd
 ```
